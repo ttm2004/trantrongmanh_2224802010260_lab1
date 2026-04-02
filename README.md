@@ -1,2 +1,4 @@
-## 🎥 Video Demo
+## 🎥 Video Demo (Click vào ảnh bên dưới để xem video)
+
+
 [![Watch video](https://static.vecteezy.com/system/resources/thumbnails/001/505/014/small/video-player-icon-free-vector.jpg)](https://drive.google.com/file/d/1VtaWZx50Agg5F8aHhIsQnkMeB9RU16f-/view?usp=sharing)
